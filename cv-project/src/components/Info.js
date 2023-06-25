@@ -7,7 +7,7 @@ import SummaryInput from './SummaryInput';
 import CareerInput from './CareerInput';
 import EduInput from './EduInput';
 import SkillsInput from './SkillsInput';
-import data from '../data';
+import data from '.../data';
 
 class Info extends Component {
     constructor(props) {
