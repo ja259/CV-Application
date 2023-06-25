@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import data from '.../data';
+import data from '../data';
 
 class SummaryInput extends Component {
     constructor(props) {

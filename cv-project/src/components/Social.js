@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import data from '.../data';
+import data from '../data';
 
 class Social extends Component {
     constructor(props) {

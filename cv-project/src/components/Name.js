@@ -1,5 +1,5 @@
 import React from 'react';
-import data from '.../data';
+import data from '../data';
 import Contact from './Contact';
 import Social from './Social';
 import Interests from './Interests';
