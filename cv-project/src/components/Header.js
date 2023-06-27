@@ -4,8 +4,8 @@ import '../styles/styles.css';
 function Header() {
     return (
         <div className="head">
-            <span className="page-name">CV-Create</span>
-            <a href="https://github.com/Kn0wn-Un/cv-application">GitHub</a>
+            <span className="page-name">CV-Application</span>
+            <a href="https://github.com/ja259/CV-Application.git">GitHub</a>
         </div>
     );
 }
