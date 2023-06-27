@@ -95,7 +95,7 @@ class Name extends React.Component {
                                 ></i>
                             </div>
                             {this.state.inteEdit ? (
-                                <InteInput done={this.editInte} />
+                                <IntereInput done={this.editInte} />
                             ) : null}
                             <Interests
                                 data={data.interests}
