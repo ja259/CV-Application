@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import data from '../data';
 
-class InteInput extends Component {
+class IntereInput extends Component {
     constructor(props) {
         super(props);
         this.state = {
