@@ -6,7 +6,7 @@ import Interests from './Interests';
 import NameInput from './NameInput';
 import ContactInput from './ContactInput';
 import SocialInput from './SocialInput';
-import InteInput from './InteInput';
+import InteInput from './IntereInput';
 
 class Name extends React.Component {
     constructor(props) {
